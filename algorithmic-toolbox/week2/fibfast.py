@@ -10,8 +10,7 @@ Samples
 >>> n = 10
 >>> fibonacci_fast(n)
 55
->>> # Explanation: To achieve the value 55
->>> # take the 10th number of the sequence """
+>>> # Explanation: To achieve the value 55 take the 10th number in the sequence """
 
 
 def fibonacci_fast(n):
