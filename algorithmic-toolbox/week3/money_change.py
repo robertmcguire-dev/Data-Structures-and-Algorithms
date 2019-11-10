@@ -16,7 +16,7 @@
   >>> m = 28
   >>> money_change(m)
   6
-  >> # Explanation: To achive the value 6 take the denominations
+  >> # Explanation: To achieve the value 6 take the denominations
   10 + 10 + 5 + 1 + 1 + 1."""
 
 
